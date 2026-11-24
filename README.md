@@ -1,0 +1,1 @@
+# Student Record Management System - Team 1\n\nAdd, search, update, delete and display student records.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
